@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.eduagui256.twa",
+        "sha256_cert_fingerprints": ["98:AC:29:09:BC:D2:22:62:E5:12:71:7F:34:F5:9A:42:33:E6:82:21:88:3A:76:0E:46:40:66:26:38:7C:7B:01"]
+      }
+    }]
