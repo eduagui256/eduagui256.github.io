@@ -5,4 +5,14 @@
         "package_name": "io.github.eduagui256.twa",
         "sha256_cert_fingerprints": ["98:AC:29:09:BC:D2:22:62:E5:12:71:7F:34:F5:9A:42:33:E6:82:21:88:3A:76:0E:46:40:66:26:38:7C:7B:01"]
       }
-    }]
+    },
+    {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.eduagui256.repertorio",
+      "sha256_cert_fingerprints":
+        ["4C:D7:7C:FB:BC:E5:D9:11:1A:B6:5A:F9:0C:08:97:C3:59:1A:35:FF:CF:5D:13:C7:54:15:90:7B:D8:6B:86:BA"]
+    }
+  }
+]  
